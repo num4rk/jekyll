@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dmitriy. I have the following qualities:
 
 
 ### my history
