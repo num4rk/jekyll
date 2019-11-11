@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Numark 1234
+title: Numark
 
 # Short description of your site
 description: Notes On The Cuffs
@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: num4rk
@@ -93,7 +93,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 # eg. "deanattali.com/beautiful-jekyll"
-url-pretty: "githug.bgbug.ru"  
+url-pretty: "github.bgbug.ru"
 
 
 # --- Web Statistics Section --- #
