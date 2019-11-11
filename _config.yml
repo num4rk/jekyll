@@ -21,6 +21,7 @@ description: Notes On The Cuffs
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Test: "test"
   Links:
     - Trakt.tv: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -91,7 +92,9 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "num4rk.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "githug.bgbug.ru"  
+
 
 # --- Web Statistics Section --- #
 
