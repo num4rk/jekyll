@@ -158,6 +158,7 @@ timezone: "America/Dallas"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+future: true
 paginate: 5
 
 kramdown:
